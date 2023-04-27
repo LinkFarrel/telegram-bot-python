@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 load_dotenv()
 
-bot_token = os.getenv('BOT_TOKEN')
+bot_token = os.getenv('5938747863:AAH2CI4b0c40pM2w4Ii6hSpThtUv1pg3EBk')
 
 bot = telegram.Bot(token=bot_token)
 
